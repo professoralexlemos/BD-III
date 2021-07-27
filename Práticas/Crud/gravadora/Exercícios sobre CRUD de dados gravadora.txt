@@ -1,0 +1,38 @@
+Use o banco de dados gravadora;
+
+1) - Desenvolva o comando necessário para realizar o cadastro de um registro na tabela Gravadora com as seguintes informações:
+Código = 100;
+Nome = Gravadora Som Brasil;
+Endereço = Avenida Brasil, 1500, Jardim Brasil, São Paulo, SP;
+Telefone = 37295678
+Contato = João Carlos
+url = www.sombrasil.com.br
+
+2) - Desenvolva o comando necessário para realizar o cadastro de um registro na tabela CD com as seguintes informações:
+Código = 10;
+Nome = MPB Brasiliano;
+Código = 100
+Preço = 79,99
+Data de Lançamento = 01/01/2022
+
+3) - Desenvolva o comando necessário para realizar a pesquisa de todas as informações de todos registros na tabela Gravadora.
+
+4) - Desenvolva o comando necessário para realizar a pesquisa do código e nome das gravadoras cadastradas.
+
+5) - Desenvolva o comando necessário para realizar a pesquisa das seguintes informações na tabela CD:
+Código;
+nome;
+Preço;
+Data de Lançamento;
+
+6) - Desenvolva o comando necessário para realizar a pesquisa de todas as informações de todos registros na tabela CD.
+
+7) - Desenvolva o comando necessário para realizar a atualização das seguintes informações na tabela CD:
+Do CD que possui o código 10, alterar o valor para 49,99 e o CD Indicado para 1;
+
+8) - Desenvolva o comando necessário para realizar a atualização das seguintes informações na tabela Gravadora:
+Da Gravadora que possui o código 100, alterar o telefone para 37295679;
+
+9) - Desenvolva o comando necessário remover a Gravadora de código 100;
+
+10) - Desenvolva o comando necessário remover o CD de código 10;
