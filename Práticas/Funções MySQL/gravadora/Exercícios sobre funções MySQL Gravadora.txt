@@ -1,0 +1,35 @@
+1) - Desenvolva o comando necessário para a pesquisa dos seguintes dados:
+Da tabela gravadora o nome, da tabela CD a quantidade de cd's, o menor preço dos cd's e o maior preço dos cd's no banco de dados gravadora;
+
+2) - Desenvolva o comando necessário para pesquisa a pesquisa dos seguintes dados:
+O nome dos autores convertido para letras maiúsculas;
+O nome da música convertido em letras minúsculas;
+O nome dos autores abreviados com três caracteres(da esquerda para a direita);
+O nome dos autores abreviados com cinco caracteres(da direita para a esquerda);
+O nome das músicas abreviados com seis caracteres(da direita para a esquerda) e convertido para letras maiúsculas;
+O nome dos autores escrito ao contrário e convertido para letras minúsculas;
+
+3) - Desenvolva o comando necessário para a pesquisa dos seguintes dados:
+Concatenar o código e o nome da gravadora, exemplo "1-EMI";
+Concatenar o código, o nome convertido para letras maiúsculas e preço de venda do CD, exemplo "1-MAIS DO MESMO-15,00";
+
+4) - Desenvolva o comando necessário para pesquisar os seguintes dados:
+A data de lançamento do CD;
+A data de lançamento do CD acrescida de um mês;
+A data de lançamento do CD convertida em dias;
+A diferença da data atual menos a data de lançamento do CD;
+
+5) - Desenvolva o comando necessário para pesquisar os dados formatados da seguinte forma:
+Código da GRAVADORA            Tamanho(04) com zeros à esquerda;
+Nome da GRAVADORA              Tamanho(30) com espaço à direita;
+Nome do CD                     Tamanho(40) com espaço à direita;
+Preço de venda do CD           Tamanho(10) com espaço à direita;
+Data de lançamento do CD do CD Tamanho(15) com espaço à direita;
+
+0001;EMI                     ;Mais do Mesmo                           ;R$ 15.00  ;01-October-1998;
+0002;BMG                     ;Bate-Boca                               ;R$ 12.00  ;01-July-1999;
+0002;BMG                     ;A Força que nunca Seca                  ;R$ 13.50  ;01-December-1998;
+0002;BMG                     ;Barry Manilow Greatest Hits Vol I       ;R$ 9.50   ;01-November-1991;
+0002;BMG                     ;Listen Without Prejudice                ;R$ 9.00   ;01-October-1991;
+0003;SOM LIVRE               ;Elis Regina - Essa Mulher               ;R$ 13.00  ;01-May-1989;
+0003;SOM LIVRE               ;Perfil                                  ;R$ 10.50  ;01-May-2001;
