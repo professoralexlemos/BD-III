@@ -1,0 +1,20 @@
+/*1) - Desenvolva o comando necessário para pesquisar a média simples do preço de venda dos cd's.*/
+
+/*2) - Desenvolva o comando necessário para pesquisar o maior preço do campo "menor_preco e maior_preco" cadastrado na tabela cd_categoria.*/
+
+/*3) - Desenvolva o comando necessário para pesquisar o menor preço do campo "menor_preco e maior_preco" cadastrado na tabela cd_categoria.*/
+
+/*4) - Desenvolva o comando necessário para pesquisar o menor e o maior preço de venda cadastrado na tabela cd.*/
+
+/*5) - Desenvolva o comando necessário para contar quantos registros existem na tabela faixa.*/
+
+/*6) - Desenvolva o comando necessário para pesquisar o menor e o maior código do cd e menor e maior número da faixa cadastrado na tabela faixa.*/
+
+/*7) - Desenvolva o comando necessário para pesquisar os seguintes dados da tabela cd_categoria:
+ - O menor valor do campo "menor_valor";
+ - O maior valor do campo "menor_valor";
+ - O média valor do campo "menor_valor";
+ - O menor valor do campo "maior_valor";
+ - O maior valor do campo "maior_valor";
+ - O média valor do campo "maior_valor";
+ */

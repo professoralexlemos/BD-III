@@ -1,0 +1,19 @@
+/*1) - Desenvolva o comando necessário para pesquisar codigo do cd, nome do cd e a quantidade de faixas existente em cada cd.*/
+
+/*2) - Desenvolva o comando necessário para descobrir a quantidade de musicas feitas por autor, mostre o nome do autor e a quantidade de musicas.*/
+
+/*3) - Desenvolva o comando necessário para pesquisar o nome da gravadora, a quantidade de cd's produzidos, a soma total do valor de venda do cd e media do preço de venda. Agrupados pelo nome da gravadora.*/
+
+/*4) - Desenvolva o comando necessário para pesquisar o nome da gravadora, soma do preço de venda e a quantidade de cd's produzidos pela gravadora. Utilize o conceitos de agrupamento de dados*/
+
+/*5) - Desenvolva um comando de pesquisa de acordo com as seguintes regras:
+pesquisar três campos;
+uma função de agregação
+join entre duas tabelas
+utilizar a cláusula GROUP BY*/
+
+/*6) - Desenvolva o comando necessário para realizar a seguinte pesquisa, o código do cd da tabela faixa e a soma da duração da musica da tabela musica, use os conceitos de join entre tabelas e agrupamentos de dados.*/
+
+/*7) - Desenvolva o comando necessário para realizar a seguinte pesquisa, da tabela gravadora, o código e o nome, da tabela cd
+a média do preço de venda, da tabela cd_categoria, a média do menor preço e a média do maior preço. use os conceitos de join entre tabelas e agrupamentos de dados.
+*/
