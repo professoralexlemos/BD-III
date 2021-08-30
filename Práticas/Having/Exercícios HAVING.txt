@@ -1,0 +1,12 @@
+/*Utilize os conceitos de GROUP BY e HAVING*/
+
+/*1) - Desenvolva o comando necessário para pesquisar o tipo e a quantidade em estoque dos produtos cuja a soma das quantidades seja superior a 200*/
+
+/*2) - Desenvolva o comando necessário para pesquisar o tipo e fabricante e a quantidade em estoque dos produtos cuja a soma das quantidades seja superior a 200*/
+
+/*3) - Desenvolva o comando necessário para realizar a pesquisa dos seguintes dados, o nome dos produtos a soma das quantidades em estoque e a soma do valor em estoque dos produtos (quantidade * valor unitário)
+cuja a soma das quantidades seja superior a 200 e a soma do valor em estoque seja maior igual a 100 mil.*/
+
+/*4)- Desenvolva o comando necessário para pesquisar o fabricante a média de produtos em estoque, dos fabricantes cujo seu estoque seja superior a 200 unidades.*/
+
+/*5) - Desenvolva o comando necessário para pesquisar o fabricante, o tipo, a média quantidade e a média do valor unitário de produtos em estoque dos fabricantes cujo seu estoque seja superior a 200 unidades e a média do valor unitário seja maior que 500 reais.*/
