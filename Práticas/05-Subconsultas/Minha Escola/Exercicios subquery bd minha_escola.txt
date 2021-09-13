@@ -1,0 +1,9 @@
+#minha_escola
+
+#1. Utilizando subquery como atributo, exiba uma listagem com os nomes dos cursos disponibilizados pela Minha Escola informando para cada curso qual o seu menor valor de venda já praticado.
+
+#2. Utilizando subquery como valor e o operador IN, exiba os nomes dos cursos disponibilizados pela Minha Escola cujo tipo de curso seja 'Programação'.
+
+#3. Utilizando subquery como valor e o operador EXISTS, exiba novamente os nomes dos cursos disponibilizados pela Minha Escola cujo tipo de curso seja 'Programação'.
+
+#4. Exiba uma listagem com os nomes dos instrutores da Minha Escola e ao lado o total acumulado das vendas referente aos cursos pelo qual o instrutor é responsável. Utilize subquery como atributo.

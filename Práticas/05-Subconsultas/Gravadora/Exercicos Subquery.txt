@@ -1,0 +1,15 @@
+#gravadora
+
+/*1) - Desenvolva o comando necessario para a construção do comando para pesquisar os seguintes campos:
+da tabela autor o nome e a quantidade de musicas composta pelo autor (para a construção do comando utilize o conceito de subquery como atributo).*/
+
+/*2) - Desenvolva o comando necessario para a construção do comando para pesquisar os seguintes campos:
+codigo do cd e quantidades de faixas de cada cd, agrupado pelo codigo do cd, faça uma subquery (para a construção do comando utilize o conceitor de subquery como valor.(na cláusula WHERE como comparação) que retorne o codigo do cd cujo a data de lançamento do cd 
+esteja entre 01-05-1989 e 09-12-1998.*/
+
+/*3) - Desenvolva o comando necessario para a construção do comando de pesquisa com os seguintes dados:
+codigo da musica, nome da musica, codigo autor, nome autor (para a construção do comando utilize o conceito de subquery com view no FROM), 
+para a construção da view desenvolva o comando de pesquisa com as seguintes caracteristicas:
+fazer um comando de pesquisa com os seguintes dados: codigo da musica e nome da musica (musica) e 
+codigo do autor e nome do autor(autor), nomear sua view de v e fazer join com a tabela faixa e listar 
+os campos citados acima (codigo da musica, nome da musica, codigo autor, nome autor);*/
