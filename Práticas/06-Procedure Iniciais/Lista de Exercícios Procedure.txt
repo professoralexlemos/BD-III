@@ -1,0 +1,9 @@
+1. Desenvolva uma procedure chamada sp_soma_dois_valores que receba dois números e exiba o resultado da sua soma.
+
+2. Desenvolva uma procedure chamada sp_exec_soma_dois_valores que execute a procedure sp_soma_dois_valores.
+
+3. Desenvolva uma procedure chamada sp_quatro_operacoes que receba dois números e ao final exiba a soma, a subtração, a multiplicação e a divisão dos números lidos.
+
+4. Desenvolva uma procedure chamada sp_exec_procs para executar as procedures sp_soma_dois_valores e sp_quatro_operacoes.
+
+5. Desenvolva uma procedure que receba as 4 notas bimestrais e ao final exiba a média aritmética.
