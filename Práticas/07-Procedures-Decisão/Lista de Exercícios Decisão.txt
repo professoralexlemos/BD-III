@@ -1,0 +1,27 @@
+1.	Faça uma procedure para ler um número inteiro e informar se este número é par ou ímpar.
+
+2.	Faça uma procedure para ler duas variáveis inteiras A e B e garantir que A e B fiquem em ordem crescente, ou seja, a variável A deverá armazenar o menor valor fornecido e a variável B o maior.
+
+3.	Desenvolva uma procedure que receba o dia da semana (número) e informe o dia da semana (literal). Use a estrutura de decisão IF
+DIA	DESCRIÇÃO
+1	Segunda-Feira
+2	Terça-Feira
+3	Quarta-Feira
+4	Quinta-feira
+5	Sexta-Feira
+6	Sábado
+7	Domingo
+
+4.	Desenvolva uma procedure que receba o dia da semana (número) e informe o dia da semana (literal). Use a estrutura de decisão CASE
+DIA	DESCRIÇÃO
+1	Segunda-Feira
+2	Terça-Feira
+3	Quarta-Feira
+4	Quinta-feira
+5	Sexta-Feira
+6	Sábado
+7	Domingo
+
+5.	Faça uma procedure que receba um número e diga se este número está no intervalo entre 100 e 200.
+
+6.	Escreva uma procedure que leia o nome de 2 times e o número de gols marcados na partida (para cada time). Escrever o nome do vencedor. Caso não haja vencedor deverá ser impressa a palavra EMPATE.
