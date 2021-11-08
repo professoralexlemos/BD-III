@@ -1,0 +1,10 @@
+01 - Desenvolva uma procedure chamada sp_IntervaloEntreDezAUm que exiba os números de 1 a 10 em ordem decrescente, use a estrutura de repetição WHILE.
+
+02 - Desenvolva uma procedure chamada sp_SomaValoresEntreUmEMil que exiba a soma dos valores no intervalo entre 1 até 1000, use a estrutura de repetição REPEAT.
+
+03 - Desenvolva uma procedure chamada sp_NumerosImparesEntre10E20 que exiba os números ímpares entre 10 e 20, use a estrutura de repetição LOOP.
+
+04 - Desenvolva uma procedure chamada sp_ExibeCalculadora que receba como parâmetro um valor entre 0 e 10 e mostre a tabuada.
+
+05 - Desenvolva uma procedure chamada sp_CalculaIntervalo que receba dois parâmetros pValorInicial e pValorFinal e ao final exiba a soma dos valores entre o intervalo,
+o valor incial (pValorInicial) deve ser menor que o valor final(pValorFinal).
